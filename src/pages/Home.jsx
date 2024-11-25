@@ -15,7 +15,7 @@ const Home = () => {
           Who we are ? 
           <h1 className='text-sm'>We are firearms dealer who can respone for people who seeking for the way of freedom.
             With our services , it can guarantee from all customers around the world with good quality of our products and we can delivery you tools which can break you free
-            by crossing the world to anywhere you want.
+            by crossing the world to anywhere you want. If you belive in the way of freedom , JOIN US !!! 
           </h1>
 
           <h1 className='Font-bold text-xl'>Contact US</h1>
